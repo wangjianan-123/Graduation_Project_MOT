@@ -1,2 +1,4 @@
 # Graduation_project_MOT
-This is my first github repository.I will update my key codes of graduation project in the repository.
+Firstly,you can download the yolov8m.pt training on the CrowdHhuman datasets.
+
+note:The model just training human full-body bounding-box of Crowdhuman datasets.
